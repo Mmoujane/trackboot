@@ -1,0 +1,15 @@
+{
+    "calories": 0,
+    "vitesse_data": {
+      "time": [],
+      "data": []
+    },
+    "acceleration_data": {
+      "time": [],
+      "data": []
+    },
+    "puissance_data": {
+      "time": [],
+      "data": []
+    }
+}
